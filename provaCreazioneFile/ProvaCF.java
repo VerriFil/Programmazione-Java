@@ -1,7 +1,7 @@
 package provaCreazioneFile;
 import java.io.*;
 
-public class theGaGa {
+public class ProvaCF {
     public static void main(String[] args){
          
         try{
