@@ -1,0 +1,27 @@
+1.  Summary *   (visible to authors during feedback, visible to authors after notification, visible to other reviewers, visible to meta-reviewers, visible to senior meta-reviewers)
+8000 characters left
+2. Score *   (visible to authors during feedback, visible to authors after notification, visible to other reviewers, visible to meta-reviewers, visible to senior meta-reviewers)
+
+3.  Justification of the score *   (visible to authors during feedback, visible to authors after notification, visible to other reviewers, visible to meta-reviewers)
+8000 characters left
+4.  Detailed feedback   (visible to authors during feedback, visible to authors after notification, visible to other reviewers, visible to meta-reviewers, visible to senior meta-reviewers)
+8000 characters left
+5.  Are the results in this paper easily reproducible ? *   (visible to other reviewers)
+CONVINCING : I am convinced that the obtained results can be reproduced, possibly with some effort. Key resources (e.g., proofs, code, data) are already available, will be made available upon acceptance, or good reasons as to why they are not (e.g., proprietary data or code) are reported in the paper. Key details (e.g., proofs, experimental setup) are sufficiently well described but their exact recovery may require some work.
+CREDIBLE: I believe that the obtained results can, in principle, be reproduced. Even though key resources (e.g., proofs, code, data) are unavailable at this point, the key details (e.g., proof sketches, experimental setup) are sufficiently well described for an expert to confidently reproduce the main results, if given access to the missing resources.
+IRREPRODUCIBLE: It is not possible to reproduce the results from the description given in the paper. Some key details (e.g., proof sketches, experimental setup) are incomplete/unclear, or some key resources (e.g., proofs, code, data) are not furnished.
+6.  Questions for the author response.   (visible to authors during feedback, visible to authors after notification, visible to other reviewers, visible to meta-reviewers, visible to senior meta-reviewers)
+2000 characters left
+7. Confidence *   (visible to other reviewers)
+I have had no exposure to this topic
+I have seen some work on this topic, but never worked on it myself
+I am generally familiar with this topic, but never worked on it myself
+I have done some work on this topic
+This is my area of expertise
+This paper is closely related to my own work, I have worked on this specific question
+Are you sure I didn’t write this paper?
+8.  Expertise *   (visible to other reviewers, visible to meta-reviewers, visible to senior meta-reviewers)
+2000 characters left
+9.  Your name   (visible to other reviewers, visible to meta-reviewers, visible to senior meta-reviewers)
+500 characters left
+10.  Confidential comments to AC and Program Chair   (visible to senior meta-reviewers)
